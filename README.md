@@ -1,23 +1,11 @@
-<<<<<<< HEAD
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Scoreboard
+This project is a simple, functional scoreboard for tracking scores between two teams during a game. It dynamically updates scores in real-time, making it easy to manage team progress.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Features
+Displays current scores for two competing teams.
+Allows quick score updates for each team.
+Minimalistic design for clarity and ease of use.
+What I Learned
+This project gave me hands-on experience with JavaScript, especially how it interacts with HTML and CSS to create a dynamic user interface.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
-=======
-# scoreboard
->>>>>>> 2ca9f65ae2e869b939af0312b8c671dc7bf38ad0
+Feel free to check it out and suggest improvements! 🚀
